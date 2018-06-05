@@ -13,6 +13,8 @@
 		7340328020C69BDE00970635 /* momo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7340327E20C69BDE00970635 /* momo.xcdatamodeld */; };
 		7340328220C69BE000970635 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7340328120C69BE000970635 /* Assets.xcassets */; };
 		7340328520C69BE000970635 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7340328320C69BE000970635 /* LaunchScreen.storyboard */; };
+		7340328F20C69F0500970635 /* 人物の無料素材 (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 7340328E20C69F0500970635 /* 人物の無料素材 (1).png */; };
+		73A20B4D20C6A177005F7BA3 /* ふきだしのアイコン.png in Resources */ = {isa = PBXBuildFile; fileRef = 73A20B4C20C6A177005F7BA3 /* ふきだしのアイコン.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		7340328120C69BE000970635 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7340328420C69BE000970635 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7340328620C69BE000970635 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7340328E20C69F0500970635 /* 人物の無料素材 (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "人物の無料素材 (1).png"; sourceTree = "<group>"; };
+		73A20B4C20C6A177005F7BA3 /* ふきだしのアイコン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ふきだしのアイコン.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				7340327B20C69BDE00970635 /* Main.storyboard */,
 				7340328120C69BE000970635 /* Assets.xcassets */,
 				7340328320C69BE000970635 /* LaunchScreen.storyboard */,
+				7340328E20C69F0500970635 /* 人物の無料素材 (1).png */,
+				73A20B4C20C6A177005F7BA3 /* ふきだしのアイコン.png */,
 				7340328620C69BE000970635 /* Info.plist */,
 				7340327E20C69BDE00970635 /* momo.xcdatamodeld */,
 			);
@@ -128,6 +134,8 @@
 				7340328520C69BE000970635 /* LaunchScreen.storyboard in Resources */,
 				7340328220C69BE000970635 /* Assets.xcassets in Resources */,
 				7340327D20C69BDE00970635 /* Main.storyboard in Resources */,
+				7340328F20C69F0500970635 /* 人物の無料素材 (1).png in Resources */,
+				73A20B4D20C6A177005F7BA3 /* ふきだしのアイコン.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
